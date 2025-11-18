@@ -1,0 +1,11 @@
+D:\Visual Studio Repos\STUDYCASES\BTH3_BT9\BTH3_BT9\bin\Debug\BTH3_BT9.exe.config
+D:\Visual Studio Repos\STUDYCASES\BTH3_BT9\BTH3_BT9\bin\Debug\BTH3_BT9.exe
+D:\Visual Studio Repos\STUDYCASES\BTH3_BT9\BTH3_BT9\bin\Debug\BTH3_BT9.pdb
+D:\Visual Studio Repos\STUDYCASES\BTH3_BT9\BTH3_BT9\obj\Debug\BTH3_BT9.csproj.AssemblyReference.cache
+D:\Visual Studio Repos\STUDYCASES\BTH3_BT9\BTH3_BT9\obj\Debug\BTH3_BT9.Form1.resources
+D:\Visual Studio Repos\STUDYCASES\BTH3_BT9\BTH3_BT9\obj\Debug\BTH3_BT9.Properties.Resources.resources
+D:\Visual Studio Repos\STUDYCASES\BTH3_BT9\BTH3_BT9\obj\Debug\BTH3_BT9.csproj.GenerateResource.cache
+D:\Visual Studio Repos\STUDYCASES\BTH3_BT9\BTH3_BT9\obj\Debug\BTH3_BT9.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\STUDYCASES\BTH3_BT9\BTH3_BT9\obj\Debug\BTH3_BT9.exe
+D:\Visual Studio Repos\STUDYCASES\BTH3_BT9\BTH3_BT9\obj\Debug\BTH3_BT9.pdb
+D:\Visual Studio Repos\STUDYCASES\BTH3_BT9\BTH3_BT9\obj\Debug\BTH3_BT9.exe.config
