@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace BTH3_Bai4
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void colorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            using(ColorDialog colorDlg = new ColorDialog())
+            {
+                if(colorDlg.ShowDialog() == DialogResult.OK)
+                {
+                    this.BackColor = colorDlg.Color;
+                }
+            }
+        }
+    }
+}
